@@ -127,7 +127,7 @@ body {
 
 #es-garnier.es-garnier .es-kv__accent2::before,
 #es-garnier.es-garnier .es-kv__accent2::after {
-  content: url("./img/square\ bracket\ open.png");
+  content: url("https://www.ros.net.pl/Portals/0/rich-content/garnier/3600542541640/img/square\ bracket\ open.png");
   color: #e75e1c;
   position: absolute;
   top: 35%;
@@ -135,7 +135,7 @@ body {
 }
 
 #es-garnier.es-garnier .es-kv__accent2::after {
-  content: url("./img/square\ bracket\ close.png");
+  content: url("https://www.ros.net.pl/Portals/0/rich-content/garnier/3600542541640/img/square\ bracket\ close.png");
   right: -200px;
 }
 
@@ -422,14 +422,14 @@ body {
 }
 /* [] jako ::before and ::after */
 #es-garnier.es-garnier .es-benefits__label::before {
-  content: url("./img/border-1.png");
+  content: url("https://www.ros.net.pl/Portals/0/rich-content/garnier/3600542541640/img/border-1.png");
   position: absolute;
   top: 0;
   left: 0;
 }
 
 #es-garnier.es-garnier .es-benefits__label::after {
-  content: url("./img/border-2.png");
+  content: url("https://www.ros.net.pl/Portals/0/rich-content/garnier/3600542541640/img/border-2.png");
   position: absolute;
   top: 0;
   right: 0;
@@ -485,7 +485,7 @@ body {
   }
 
   #es-garnier.es-garnier .es-benefits__texts--1::before {
-    content: url("./img/border-line-1.png");
+    content: url("https://www.ros.net.pl/Portals/0/rich-content/garnier/3600542541640/img/border-line-1.png");
     position: absolute;
     top: 45px;
     left: 298px;
@@ -498,7 +498,7 @@ body {
   }
   /* linia odnośnika do obrazka jest wstawiona jako ::before dla każdego elementu z osobna*/
   #es-garnier.es-garnier .es-benefits__texts--2::before {
-    content: url("./img/border-line-2.png");
+    content: url("https://www.ros.net.pl/Portals/0/rich-content/garnier/3600542541640/img/border-line-2.png");
     position: absolute;
     top: 46px;
     left: -154px;
@@ -509,7 +509,7 @@ body {
     padding-left: 16px;
   }
   #es-garnier.es-garnier .es-benefits__texts--3::before {
-    content: url("./img/border-line-3.png");
+    content: url("https://www.ros.net.pl/Portals/0/rich-content/garnier/3600542541640/img/border-line-3.png");
     position: absolute;
     top: 6px;
     right: -143px;
@@ -521,7 +521,7 @@ body {
   }
 
   #es-garnier.es-garnier .es-benefits__texts--4::before {
-    content: url("./img/border-line-4.png");
+    content: url("https://www.ros.net.pl/Portals/0/rich-content/garnier/3600542541640/img/border-line-4.png");
     position: absolute;
     top: -119px;
     left: -45px;
@@ -689,7 +689,7 @@ body {
 }
 
 #es-garnier.es-garnier .es-results__bg-right::before {
-  content: url("./img/results-packshot.png");
+  content: url("https://www.ros.net.pl/Portals/0/rich-content/garnier/3600542541640/img/results-packshot.png");
   position: absolute;
   z-index: 999;
   right: -50%;
@@ -703,7 +703,7 @@ body {
 }
 
 #es-garnier.es-garnier .es-results__bg-right {
-  background-image: url("./img/results-bg.png");
+  background-image: url("https://www.ros.net.pl/Portals/0/rich-content/garnier/3600542541640/img/results-bg.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -898,12 +898,12 @@ body {
   }
 
   #es-garnier.es-garnier .es-info__icon--1::before {
-    content: url("./img/line-1.png");
+    content: url("https://www.ros.net.pl/Portals/0/rich-content/garnier/3600542541640/img/line-1.png");
     left: -124px;
   }
 
   #es-garnier.es-garnier .es-info__icon--3::before {
-    content: url("./img/line-1.png");
+    content: url("https://www.ros.net.pl/Portals/0/rich-content/garnier/3600542541640/img/line-1.png");
     left: -124px;
   }
 }
@@ -1405,7 +1405,7 @@ body {
   }
   #es-garnier.es-garnier .es-ingredients__cards {
     margin: 0;
-    background: url("./img/bg-ingr.png") no-repeat center center;
+    background: url("https://www.ros.net.pl/Portals/0/rich-content/garnier/3600542541640/img/bg-ingr.png") no-repeat center center;
   }
   #es-garnier.es-garnier .es-ingredients__disclaimer {
     text-align: left;
