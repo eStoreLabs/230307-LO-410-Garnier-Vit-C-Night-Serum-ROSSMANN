@@ -21,7 +21,7 @@ body {
   overflow: hidden;
   color: #111;
   background: #fff;
-  max-width: 998px;
+  max-width: 930px;
 }
 
 #es-garnier.es-garnier * {
@@ -159,10 +159,10 @@ body {
     justify-content: center;
   }
   #es-garnier.es-garnier .es-kv__title {
-    font-size: 40px;
+    font-size: 34px;
   }
   #es-garnier.es-garnier .es-kv__subtitle {
-    font-size: 28px;
+    font-size: 27px;
   }
 
   #es-garnier.es-garnier .es-kv__photo {
@@ -362,7 +362,7 @@ body {
     grid-area: drop;
     position: relative;
     z-index: 99;
-    top: -30px;
+    top: -6px;
     margin-left: 120px;
   }
 }
@@ -512,7 +512,7 @@ body {
     content: url("./img/border-line-3.png");
     position: absolute;
     top: 6px;
-    right: -190px;
+    right: -143px;
   }
   #es-garnier.es-garnier .es-benefits__texts--4 {
     bottom: 10px;
